@@ -12,6 +12,8 @@ const ProductDetailsCarousel = () => {
         thumbWidth={60}
         className="productCarousel"
       >
+        
+        <img src="/s.png" alt="" />
         <img src="/s1.png" alt="" />
         <img src="/s2.png" alt="" />
         <img src="/s3.png" alt="" />
